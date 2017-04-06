@@ -1,0 +1,44 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "JorritDroogsmaRef"
+      },
+      "FirstName": "Jorrit",
+	   "LastName": "Droogsma"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "BasVisserRef"
+      },
+      "FirstName": "Bas",
+     "LastName": "Visser"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "RonnieVisserRef"
+      },
+      "FirstName": "Ronnie",
+     "LastName": "Visser"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "PeterRef"
+      },
+      "FirstName": "Peter",
+     "LastName": "van der Meij"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "MarcHooghiemstraRef"
+      },
+      "FirstName": "Marc",
+     "LastName": "Hooghiemstra"
+    }
+  ]
+}

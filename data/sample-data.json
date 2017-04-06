@@ -1,0 +1,23 @@
+[
+  {
+    "sobject": "User_Group_Meeting__c",
+    "saveRefs": true,
+    "files": [
+      "meeting-data.json"
+    ]
+  },
+  {
+    "sobject": "Contact",
+    "saveRefs": true,
+    "files": [
+      "contact-data.json"
+    ]
+  },
+  {
+    "sobject": "Attendee__c",
+    "resolveRefs": true,
+    "files": [
+      "attendee-data.json"
+    ]
+  }
+]

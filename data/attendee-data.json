@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Attendee__c",
+        "referenceId": "AttendeeJorritDroogsmaRef"
+      },
+       "Status__c": "Registered",
+	     "User_Group_Meeting__c": "@dxdev",
+       "Contact__c" : "@JorritDroogsmaRef"
+    },
+    {
+      "attributes": {
+        "type": "Attendee__c",
+        "referenceId": "AttendeeBasVisserRef"
+      },
+      "Status__c": "Registered",
+       "User_Group_Meeting__c": "@dxdev",
+       "Contact__c" : "@BasVisserRef"
+    },
+    {
+      "attributes": {
+        "type": "Attendee__c",
+        "referenceId": "AttendeeRonnieVisserRef"
+      },
+      "Status__c": "Registered",
+       "User_Group_Meeting__c": "@dxdev",
+       "Contact__c" : "@RonnieVisserRef"
+    },
+    {
+      "attributes": {
+        "type": "Attendee__c",
+        "referenceId": "AttendeePeterRef"
+      },
+      "Status__c": "Registered",
+       "User_Group_Meeting__c": "@dxdev",
+       "Contact__c" : "@PeterRef"
+    },
+    {
+      "attributes": {
+        "type": "Attendee__c",
+        "referenceId": "AttendeeMarcHooghiemstraRef"
+      },
+      "Status__c": "Registered",
+       "User_Group_Meeting__c": "@dxdev",
+       "Contact__c" : "@MarcHooghiemstraRef"
+    }
+  ]
+}

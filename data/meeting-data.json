@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "User_Group_Meeting__c",
+        "referenceId": "dxdev"
+      },
+      "Name": "DX Developer Preview",
+      "Date__c": "2017-04-06",
+      "Description__c": "User group meeting around SFDX"
+    }
+  ]
+}

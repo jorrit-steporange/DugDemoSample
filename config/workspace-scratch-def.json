@@ -1,0 +1,10 @@
+{
+  "Company": "DugDemoSample",
+  "Country": "US",
+  "LastName": "Droogsma",
+  "Email": "jorrit@steporange.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
